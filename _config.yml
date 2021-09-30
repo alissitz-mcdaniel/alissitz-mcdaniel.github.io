@@ -5,5 +5,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/annalissitz/</a> 
   
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 index_page: index.md
