@@ -1,1 +1,9 @@
+title: Dr. Anna Lissitz # your name (or website title) here
+logo: "/images/Anna grad pic? raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  I am an Assistant Professor in the Data Analytics Program at McDaniel College in Westminster, MD 
+  <br><br>
+  <a href="https://www.linkedin.com/in/annalissitz/</a> 
+  
 theme: jekyll-theme-cayman
+index_page: index.html
