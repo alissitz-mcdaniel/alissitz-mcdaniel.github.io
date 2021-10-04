@@ -16,7 +16,7 @@
 
 ### DataBricks Project (with Scala)
 - [Ad Clicks](https://github.com/alissitz-mcdaniel/Databricks-ad-clicks-Project)
-
+<img src="images/databricks logo.png?raw=true"/>
 ---
 
 ### Regression Projects
