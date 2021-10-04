@@ -4,7 +4,7 @@
 
 ### Basic R programming
 
-[Project 1 Title](https://github.com/alissitz-mcdaniel/Databricks-ad-clicks-Project)
+[Project 1 Title]()
 
 ---
 
@@ -15,7 +15,7 @@
 ---
 
 ### DataBricks Project (with Scala)
-- [Project 1 Title](http://example.com/)
+- [Ad Clicks](https://github.com/alissitz-mcdaniel/Databricks-ad-clicks-Project)
 
 ---
 
