@@ -4,8 +4,7 @@
 
 ### Basic R programming
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](https://github.com/alissitz-mcdaniel/Databricks-ad-clicks-Project)
 
 ---
 
