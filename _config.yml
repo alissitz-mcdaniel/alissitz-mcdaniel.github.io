@@ -3,7 +3,7 @@ logo: "/images/Anna grad pic circle.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am an Assistant Professor in the Data Analytics Program at McDaniel College in Westminster, MD 
   <br><br>
-  <a href="https://www.linkedin.com/in/annalissitz/</a> 
+  <a href="https://www.linkedin.com/in/annalissitz/ >View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 index_page: index.md
