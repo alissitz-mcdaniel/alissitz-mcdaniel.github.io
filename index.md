@@ -3,10 +3,8 @@
 ---
 
 ### Basic R programming
-
-- [Roll the Dice] (https://github.com/alissitz-mcdaniel/Roll-the-Dice)
--<img src="images/....."/>
-
+- [Roll the Dice](https://github.com/alissitz-mcdaniel/Roll-the-Dice)
+<img src="images/....."/>
 ---
 
 ### Basic Python programming
